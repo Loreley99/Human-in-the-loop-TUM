@@ -1,6 +1,6 @@
 # Human-in-the-loop-TUM
 This repository based on the TREC dataset implement different augmentation method including the language level as well as the embedding level and user can simply pick the data they want to augment and check the model performance.
-In addition, this is the project outcome of tum's interpretable ai practice course. The project report can be found at [Report](/Report.pdf).
+In addition, this is the project outcome of tum's interpretable ai practice course. The project report can be found at [XAI_Report](/XAI_Report.pdf).
 
 # Usage
 * Easy data augumentation methods are implemented in [eda.py](eda.py) and [eda.ipynb](eda.ipynb).
